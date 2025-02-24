@@ -1,4 +1,3 @@
-// You are using GCC
 #include <stdio.h>
 #include <ctype.h>
 
